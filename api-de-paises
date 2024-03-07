@@ -1,4 +1,5 @@
 <?php
+
  $paises1 = [
     "nombre del pais" => "Canada",
     "idioma" => "ingles",
@@ -97,11 +98,8 @@
  $paises3,
  $paises4,
  
-
- 
  ];
 
-
- echo json_encode[$paises];
+ echo json_encode($paises);
 ?>
  
