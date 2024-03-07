@@ -16,7 +16,7 @@
     "deporte famoso" =>"hockey hielo",
     "religiones" =>"cristianismo",
     "baile"=> "minowin",
-    "algo Tipico"=> "el frio",
+    "algo tipico"=> "el frio",
     "esta en america"=> true,
  
  ];
