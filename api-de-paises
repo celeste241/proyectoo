@@ -50,11 +50,15 @@
     "comidas" => "carbonada,choripan,chimichurri,empanadas",
     "colores de la bandera" => "azul celeste,blanca y azul celeste" ,
     "idioma" => "español ",
-    "deportes" => "tenis",
-    "religiones" => "cristiana",
-    "curiosidades de argentina" => "la carne argentina es mudialmente famosa ",
-    "curiosidades de argentina" => "buenos aires tiene mezquina mas grande de latinoamerica ",
-    "curiosidades de argentina" => "la bebida nacional de argentina es la yerba mate",
+    "Capital" => "Santiago"
+    "Moneda" => "Peso chileno"
+    "Relieve" => "Cordillera de los Andes"
+    "Patrimonio Cultural" => "Estatua de la Virgen del Cerro San Cristóbal"
+    "Festividades" => "Fiestas Patrias"
+    "Producto de exportación" => "Cobre"
+    "Región geográfica" => "América del Sur"
+    "Presidente actual" => "Sebastián Piñera"
+    "Clima" => "Varía desde desértico en el norte hasta templado en el sur"
 
 ];
 
