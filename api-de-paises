@@ -59,7 +59,12 @@
     "Región geográfica" => "América del Sur"
     "Presidente actual" => "Sebastián Piñera"
     "Clima" => "Varía desde desértico en el norte hasta templado en el sur"
-
+    "turismo anual"=> 4400000,
+    "deporte famoso" =>"futbol",
+    "religiones" =>"catolica",
+    "baile"=> "la cueca",
+    "algo tipico"=> "las empanadas",
+    "esta en america"=> true,
 ];
 
  $paises4 = [
