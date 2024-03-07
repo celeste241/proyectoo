@@ -22,7 +22,7 @@
  ];
 
  $paises2 = [
-    "nombre del pais" => "España",
+    "nombre del pais" => "colombia",
     "poblacion" => 51.609.000 ,
     "comidas" => "sopa de ojo, sopa de huevo,mote de auyama",
     "colores de la bandera" => "amarillo,azul y roja" ,
@@ -37,7 +37,7 @@
     "festejos6"=> "festival de musica andina",
     "deportes" =>"ciclismo",
     "religiones" =>"catolisismo ",
-    "curiosidades de combia"=> "con mayor biodiversidad del planeta",
+    "curiosidades de comlombia"=> "con mayor biodiversidad del planeta",
     "curiosidades de colombia"=> "tiene varios parques nacionales",
     "curiosidades de colombia"=> "tiene 2 de los mayores festivales del mundo"
  
