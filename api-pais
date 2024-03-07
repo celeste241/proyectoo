@@ -39,6 +39,34 @@
     "curiosidades de combia"=> "con mayor biodiversidad del planeta",
     "curiosidades de colombia"=> "tiene varios parques nacionales",
     "curiosidades de colombia"=> "tiene 2 de los mayores festivales del mundo"
+
+];
+ $paises3 = [
+    "nombre del pais" => "Chile",
+    "poblacion" => "45.81 millones",
+    "comidas" => "carbonada,choripan,chimichurri,empanadas",
+    "colores de la bandera" => "azul celeste,blanca y azul celeste" ,
+    "idioma" => "español ",
+    "America del norte" => true,
+    "lenguas" => "15 ",
+    "festejos"=> "fiesta nacional del taninero",
+    "festejos"=> "festival nacionar de la cueca y el damasco  ",
+    "festejos"=> "fiesta nacional del taninero",
+    "festejos"=> "año nuevo patagonico ",
+    "festejos"=> "arteba ",
+    "festejos"=> "fiesta nacional de la noche mas largas",
+    "deportes" =>"tenis",
+    "religiones" =>"cristiana",
+    "curiosidades de argentina"=> "la carne argentina es mudialmente famosa ",
+    "curiosidades de argentina"=> "buenos aires tiene mezquina mas grande de latinoamerica ",
+    "curiosidades de argentina"=> "la bebida nacional de argentina es la yerba mate",
+ 
+
+
+
+
+ ];
+
  
 
 
