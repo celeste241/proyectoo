@@ -65,12 +65,12 @@
 
  $paises4 = [
     "nombre del pais" => "Peru",
-    "poblacion en millones" => "47.42",
+    "poblacion en millones" => "47.42"
     "comidas" => "ceviche,paella,pulpo a la gallega,fabada ",
     "colores de la bandera" => "roja,amarrillo,roja",
     "idioma" => "español",
     "America del norte" => "true",
-    "lenguas" => "5 ",
+    "lenguas" => "5 "
     "festejos"=> "moros y cristianos",
     "deportes" =>"futbol ",
     "religiones" =>" cristianismo",
