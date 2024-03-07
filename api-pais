@@ -1,0 +1,45 @@
+<?php
+ $paises1 = [
+    "nombre del pais" => "Canada",
+    "idioma" => "Ingles",
+    "poblacion" => "38.25 millones",
+    "colores de la bandera" => "blanca y roja" ,
+    "comida" => "poutine, calgary beef hash, maple syrup y fiddleheads", 
+    "ropa" => “camisas”,
+    "dulces" => "blueberry grunt",
+    "buena calidad de vida"=> "Alto nivel de vida",
+    "animal famoso"=> "oso blanco",
+    "primer presidente"=> "Justin Trudeau",
+    "festividad favorita"=> "Canada day",
+    "Postre famoso"=> "Tartas de mat",
+    "turismo anual"=> "carnaval de veracruz",
+    "deporte famoso" =>"lucha libre",
+    "religiones" =>"catolicismo",
+    "baile"=> "hogar de la piramide mas grande",
+    "Algo Tipico"=> "mayor exportador de cerveza del mundo",
+    "esta en america"=> "el chocola fue un descubrimiento mexicano"
+ 
+ ];
+ $paises2 = [
+    "nombre del pais" => "Espa˜˜˜˜na",
+    "poblacion" => "51.609.000 ",
+    "comidas" => "sopa de ojo, sopa de huevo,mote de auyama",
+    "colores de la bandera" => "amarillo,azul y roja" ,
+    "idioma" => "castellano ",
+    "America del norte" => true,
+    "lenguas" => "65 ",
+    "festejos"=> "carnaval de barranquilla ",
+    "festejos"=> "la feria de cali ",
+    "festejos"=> "la feria de la independencia",
+    "festejos"=> "festival vallenato",
+    "festejos"=> "festival de las flores de medellin ",
+    "festejos"=> "festival de musica andina",
+    "deportes" =>"ciclismo",
+    "religiones" =>"catolisismo ",
+    "curiosidades de combia"=> "con mayor biodiversidad del planeta",
+    "curiosidades de colombia"=> "tiene varios parques nacionales",
+    "curiosidades de colombia"=> "tiene 2 de los mayores festivales del mundo"
+ 
+
+
+ ];
