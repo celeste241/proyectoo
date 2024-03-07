@@ -20,3 +20,34 @@
     "esta en america"=> true,
  
  ];
+
+ $paises2 = [
+    "nombre del pais" => "España",
+    "poblacion" => 51.609.000 ,
+    "comidas" => "sopa de ojo, sopa de huevo,mote de auyama",
+    "colores de la bandera" => "amarillo,azul y roja" ,
+    "idioma" => "castellano ",
+    "America del norte" => true,
+    "lenguas" => 65 ,
+    "festejos1"=> "carnaval de barranquilla ",
+    "festejos2"=> "la feria de cali ",
+    "festejos3"=> "la feria de la independencia",
+    "festejos4"=> "festival vallenato",
+    "festejos5"=> "festival de las flores de medellin ",
+    "festejos6"=> "festival de musica andina",
+    "deportes" =>"ciclismo",
+    "religiones" =>"catolisismo ",
+    "curiosidades de combia"=> "con mayor biodiversidad del planeta",
+    "curiosidades de colombia"=> "tiene varios parques nacionales",
+    "curiosidades de colombia"=> "tiene 2 de los mayores festivales del mundo"
+ 
+
+
+ ];
+ $paises3 = [
+    "nombre del pais" => "Chile",
+    "poblacion" => 45.81 ,
+    "comidas" => "carbonada,choripan,chimichurri,empanadas",
+    "colores de la bandera" => "azul celeste,blanca y azul celeste" ,
+    "idioma" => "español ",
+
