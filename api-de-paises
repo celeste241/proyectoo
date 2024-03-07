@@ -55,3 +55,44 @@
     "curiosidades de argentina" => "la carne argentina es mudialmente famosa ",
     "curiosidades de argentina" => "buenos aires tiene mezquina mas grande de latinoamerica ",
     "curiosidades de argentina" => "la bebida nacional de argentina es la yerba mate",
+
+];
+
+ $paises4 = [
+    "nombre del pais" => "Peru",
+    "poblacion en millones" => "47.42"
+    "comidas" => "ceviche,paella,pulpo a la gallega,fabada ",
+    "colores de la bandera" => "roja,amarrillo,roja",
+    "idioma" => "español",
+    "America del norte" => "true",
+    "lenguas" => "5 "
+    "festejos"=> "moros y cristianos",
+    "deportes" =>"futbol ",
+    "religiones" =>" cristianismo",
+    "curiosidades de peru"=> " El chamanismo practicado es el segundo más grande del mundo",
+    "capital" => "Lima",
+    "Moneda" => "Sol",
+    "Relieve" => "Andes",
+    "Patrimonio Cultural" => "Machu Picchu",
+    "Festividades" => "Inti Raymi",
+    "Producto de exportación" => "Aguacate",
+    "Región geográfica" => "América del Sur",
+    "Clima" => "Diverso, desde tropical en la costa hasta frío en la sierra",
+    "Presidente actual" => "Pedro Castillo",
+
+ ];
+
+ $paises = [
+ $paises1,
+ $paises2,
+ $paises3,
+ $paises4,
+ 
+
+ 
+ ];
+
+
+ echo json_encode[$paises];
+
+ 
