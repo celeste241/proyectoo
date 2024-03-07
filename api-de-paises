@@ -1,1 +1,22 @@
-kk
+<?php
+ $paises1 = [
+    "nombre del pais" => "Canada",
+    "idioma" => "Ingles",
+    "poblacion" =>3825000000,
+    "colores de la bandera" => "blanca y roja" ,
+    "comida" => "poutine, calgary beef hash, maple syrup y fiddleheads", 
+    "ropa" => “camisas a cuadros y botas”,
+    "dulces" => "blueberry grunt",
+    "calidad de vida"=> "Alto nivel de vida",
+    "animal famoso"=> "oso blanco",
+    "primer presidente"=> "Justin Trudeau",
+    "festividad favorita"=> "Canada day",
+    "Postre famoso"=> "Tartas de mantequilla",
+    "turismo anual"=> 22145406,
+    "deporte famoso" =>"hockey hielo",
+    "religiones" =>"cristianismo",
+    "baile"=> "minowin",
+    "algo Tipico"=> "el frio",
+    "esta en america"=> true,
+ 
+ ];
