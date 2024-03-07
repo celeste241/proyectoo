@@ -1,13 +1,13 @@
 <?php
  $paises1 = [
     "nombre del pais" => "Canada",
-    "idioma" => "Ingles",
+    "idioma" => "ingles",
     "poblacion" =>3825000000,
     "colores de la bandera" => "blanca y roja" ,
     "comida" => "poutine, calgary beef hash, maple syrup y fiddleheads", 
     "ropa" => “camisas a cuadros y botas”,
     "dulces" => "blueberry grunt",
-    "calidad de vida"=> "Alto nivel de vida",
+    "calidad de vida"=> "alto nivel de vida",
     "animal famoso"=> "oso blanco",
     "primer presidente"=> "Justin Trudeau",
     "festividad favorita"=> "Canada day",
