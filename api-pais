@@ -5,19 +5,19 @@
     "poblacion" => "38.25 millones",
     "colores de la bandera" => "blanca y roja" ,
     "comida" => "poutine, calgary beef hash, maple syrup y fiddleheads", 
-    "ropa" => “camisas”,
+    "ropa" => “camisas a cuadros y botas”,
     "dulces" => "blueberry grunt",
     "buena calidad de vida"=> "Alto nivel de vida",
     "animal famoso"=> "oso blanco",
     "primer presidente"=> "Justin Trudeau",
     "festividad favorita"=> "Canada day",
-    "Postre famoso"=> "Tartas de mat",
-    "turismo anual"=> "carnaval de veracruz",
-    "deporte famoso" =>"lucha libre",
-    "religiones" =>"catolicismo",
-    "baile"=> "hogar de la piramide mas grande",
-    "Algo Tipico"=> "mayor exportador de cerveza del mundo",
-    "esta en america"=> "el chocola fue un descubrimiento mexicano"
+    "Postre famoso"=> "Tartas de mantequilla",
+    "turismo anual"=> "22,145,406",
+    "deporte famoso" =>"hockey hielo",
+    "religiones" =>"cristianismo",
+    "baile"=> "minowin",
+    "algo Tipico"=> "el frio",
+    "esta en america"=> true,
  
  ];
  $paises2 = [
