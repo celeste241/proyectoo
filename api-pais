@@ -93,20 +93,7 @@
  $paises3,
  $paises4,
  
- ];
 
- echo json_encode[$paises];
-
-
-
-
-
- ];
- $paises = [
- $paises1,
- $paises2,
- $paises3,
- $paises4,
  
  ];
 
