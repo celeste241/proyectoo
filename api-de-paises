@@ -50,15 +50,15 @@
     "comidas" => "carbonada,choripan,chimichurri,empanadas",
     "colores de la bandera" => "azul,blanco,rojo" ,
     "idioma" => "español ",
-    "Capital" => "Santiago"
-    "Moneda" => "Peso chileno"
-    "Relieve" => "Cordillera de los Andes"
-    "Patrimonio Cultural" => "Estatua de la Virgen del Cerro San Cristóbal"
-    "Festividades" => "Fiestas Patrias"
-    "Producto de exportación" => "Cobre"
-    "Región geográfica" => "América del Sur"
-    "Presidente actual" => "Sebastián Piñera"
-    "Clima" => "Varía desde desértico en el norte hasta templado en el sur"
+    "Capital" => "Santiago",
+    "Moneda" => "Peso chileno",
+    "Relieve" => "Cordillera de los Andes",
+    "Patrimonio Cultural" => "Estatua de la Virgen del Cerro San Cristóbal",
+    "Festividades" => "Fiestas Patrias",
+    "Producto de exportación" => "Cobre",
+    "Región geográfica" => "América del Sur",
+    "Presidente actual" => "Sebastián Piñera",
+    "Clima" => "Varía desde desértico en el norte hasta templado en el sur",
     "turismo anual"=> 4400000,
     "deporte famoso" =>"futbol",
     "religiones" =>"catolica",
@@ -69,11 +69,11 @@
 
  $paises4 = [
     "nombre del pais" => "Peru",
-    "poblacion en millones" => 47.42,
-    "comidas" => "ceviche,paella,pulpo a la gallega,fabada ",
-    "colores de la bandera" => "roja,amarrillo,roja",
+    "poblacion en millones" => 33.72,
+    "comidas" => "ceviche,lomo saltado,ají de gallina",
+    "colores de la bandera" => "roja,blanco,roja",
     "idioma" => "español",
-    "America del norte" => "true",
+    "America del sur" => "true",
     "lenguas" => 5, 
     "festejos"=> "moros y cristianos",
     "deportes" =>"futbol ",
@@ -85,7 +85,7 @@
     "Patrimonio Cultural" => "Machu Picchu",
     "Festividades" => "Inti Raymi",
     "Producto de exportación" => "Aguacate",
-    "Región geográfica" => "América del Sur",
+    "Sitio arqueológico famoso" => "Nazca Lines",
     "Clima" => "Diverso, desde tropical en la costa hasta frío en la sierra",
     "Presidente actual" => "Pedro Castillo",
 
